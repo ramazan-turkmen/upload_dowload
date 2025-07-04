@@ -31,7 +31,6 @@ python ssh_transfer.py
 ## 🖥️ Ekran Görüntüleri
 ![dosya_transfer](https://github.com/user-attachments/assets/576f4b46-4b5a-46b5-b934-a93d19d2d0c5)
 
-
 *Uygulamanın ana arayüzü - Bağlantı ve dosya transfer paneli*
 
 ## 🛠️ Kullanım Kılavuzu
@@ -71,6 +70,6 @@ Bu proje MIT lisansı altında dağıtılmaktadır. Detaylar için [LICENSE](LIC
 
 ---
 
-**✉️ İletişim:** [email@]  
+**✉️ İletişim:** [https://www.linkedin.com/in/ramazan-türkmen01/]  
 **🌍 GitHub:** [github.com/ramazan-turkmen](https://github.com/ramazan-turkmen)  
 **📅 Son Güncelleme:** 04 Temmuz 2025
