@@ -29,6 +29,7 @@ python ssh_transfer.py
 
 
 ## 🖥️ Ekran Görüntüleri
+![dosya_transfer](https://github.com/user-attachments/assets/576f4b46-4b5a-46b5-b934-a93d19d2d0c5)
 
 
 *Uygulamanın ana arayüzü - Bağlantı ve dosya transfer paneli*
